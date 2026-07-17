@@ -9,7 +9,6 @@ The goal of this repository is to strengthen problem-solving skills, improve cod
 ## 📚 Topics Covered
 
 - Arrays
-- Two Pointers
 - Sliding Window
 
 ---
@@ -19,6 +18,11 @@ The goal of this repository is to strengthen problem-solving skills, improve cod
 - Java
 
 ---
+
+## 📁 Project Structure
+
+- Arrays/ - array-based problems and solutions
+- SlidingWindow/ - sliding window problems and solutions
 
 ## 🎯 Learning Goals
 

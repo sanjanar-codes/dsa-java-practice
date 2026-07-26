@@ -10,6 +10,7 @@ The goal of this repository is to strengthen problem-solving skills, improve cod
 
 - Arrays
 - Sliding Window
+- Two Pointers
 
 ---
 
@@ -23,6 +24,7 @@ The goal of this repository is to strengthen problem-solving skills, improve cod
 
 - Arrays/ - array-based problems and solutions
 - SlidingWindow/ - sliding window problems and solutions
+- TwoPointers/ - two-pointer based problems and solutions
 
 ## 🎯 Learning Goals
 
